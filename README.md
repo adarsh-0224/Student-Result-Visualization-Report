@@ -15,7 +15,7 @@ DAX (Data Analysis Expressions): Employed within Power BI to calculate averages,
 ChatGPT: Used for generating documentation, project planning support and formulating calculated logic or DAX expressions when needed.
 
 File Formats:
-.pbix: Used for Power BI project development and .csv : Raw dataset used, exported from mockaroo.com
+.pbix: Used for Power BI project development,.csv : Raw dataset used, exported from mockaroo.com and .jpg: Image previews of the final dashboard
 
 4. 🔗 Data Source:
 
