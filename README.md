@@ -35,3 +35,6 @@ mockaroo.com – A synthetic data generator used to create the mock student data
 
 6.  🖼️ Screenshot: Dashboard Preview
 https://github.com/adarsh-0224/Student-Result-Visualization-Report/blob/main/Power%20BI%20Dashboard.jpg
+
+https://github.com/adarsh-0224/Student-Result-Visualization-Report/blob/main/Power%20BI%20Dashboard1.jpg
+
