@@ -1,11 +1,11 @@
 1. 📊 Project Title: Student Result Visualization
 
-2. 📝 Short Description / Purpose
+2. 📝 Short Description / Purpose:
 This project is an interactive Power BI dashboard designed to visualize the academic performance of students across various subjects. It enables educators to analyze student scores, grade distributions, subject averages, and identify top performers, thereby supporting data-driven academic insights and interventions.
 
 ---
 
-3. 💻 Tech Stack
+3. 💻 Tech Stack:
 Power BI Desktop: Used as the primary data visualization platform for creating the dashboard.
 
 Python: Utilized for data preprocessing and cleaning before importing the data into Power BI.
@@ -18,12 +18,12 @@ File Formats:
 .pbix: Used for Power BI project development.
 .csv : Raw dataset used, exported from mockaroo.com
 
-4. 🔗 Data Source
+4. 🔗 Data Source:
 
 mockaroo.com – A synthetic data generator used to create the mock student dataset for this project.
 
 
-5. 🌟 Features / Highlights
+5. 🌟 Features / Highlights:
 
 📊 Subject-wise Score Comparison: A clustered bar chart displays average scores per subject (Math, English, Science, Hindi, Social Science) across students.
 📈 Target Scores (KPI Cards): Target score indicators for each subject with green ticks, showing current average vs. goal scores.
