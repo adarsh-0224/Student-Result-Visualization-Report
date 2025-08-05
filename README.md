@@ -33,9 +33,6 @@ Percentage Summary: Line chart to track average percentage across terms.
 Interactive Filters: Slicers to filter data by Result (Pass/Fail), Term (1 or 2), and Class (1 to 12).
 
 6. Screenshot: Dashboard Preview
-https://github.com/adarsh-0224/Student-Result-Visualization-Report/blob/main/Power%20BI%20Dashboard.jpg
-![Power BI Dashboard](https://github.com/user-attachments/assets/05312270-92b1-4ca5-b6c1-fbbd3645d62b)
-
 https://github.com/adarsh-0224/Student-Result-Visualization-Report/blob/main/Power%20BI%20Dashboard1.jpg
 ![Power BI Dashboard1](https://github.com/user-attachments/assets/53478ff5-748c-45e7-8b8d-51385905e8e4)
 
