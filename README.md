@@ -40,6 +40,3 @@ https://github.com/adarsh-0224/Student-Result-Visualization-Report/blob/main/Pow
 https://github.com/adarsh-0224/Student-Result-Visualization-Report/blob/main/Power%20BI%20Dashboard1.jpg
 ![Power BI Dashboard1](https://github.com/user-attachments/assets/53478ff5-748c-45e7-8b8d-51385905e8e4)
 
-7. 🔚 Conclusion
-
-This Power BI project delivers a clear and insightful representation of student academic performance. By leveraging interactive visuals, filters, and KPIs, it helps educators monitor trends, evaluate subject-level performance, and recognize top achievers. The balance between visualization and data analytics ensures that this dashboard is not only informative but also actionable, making it a valuable asset for academic planning and evaluation.
