@@ -35,7 +35,7 @@ mockaroo.com – A synthetic data generator used to create the mock student data
 🎯 Interactive Filters: Slicers to filter data by Result (Pass/Fail), Term (1 or 2), and Class (1 to 12).
 
 6.  🖼️ Screenshot: Dashboard Preview
+https://github.com/adarsh-0224/Student-Result-Visualization-Report/blob/main/Power%20BI%20Dashboard.jpg
+https://github.com/adarsh-0224/Student-Result-Visualization-Report/blob/main/Power%20BI%20Dashboard1.jpg
 
-
-
-  # 🖼️ Sc
+   
