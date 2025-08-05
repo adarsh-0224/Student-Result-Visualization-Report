@@ -22,9 +22,9 @@ File Formats:
 mockaroo.com – A synthetic data generator used to create the mock student dataset for this project.
 
 5.  📦 Dataset Used:
+https://github.com/adarsh-0224/Student-Result-Visualization-Report/blob/main/MOCK_DATA%20(7).csv
 
-
-5. 🌟 Features / Highlights:
+7. 🌟 Features / Highlights:
 
 📊 Subject-wise Score Comparison: A clustered bar chart displays average scores per subject (Math, English, Science, Hindi, Social Science) across students.
 📈 Target Scores (KPI Cards): Target score indicators for each subject with green ticks, showing current average vs. goal scores.
@@ -35,7 +35,7 @@ mockaroo.com – A synthetic data generator used to create the mock student data
 📊 Percentage Summary: Line chart to track average percentage across terms.
 🎯 Interactive Filters: Slicers to filter data by Result (Pass/Fail), Term (1 or 2), and Class (1 to 12).
 
-6.  🖼️ Screenshot: Dashboard Preview
+8.  🖼️ Screenshot: Dashboard Preview
 https://github.com/adarsh-0224/Student-Result-Visualization-Report/blob/main/Power%20BI%20Dashboard.jpg
 ![Power BI Dashboard](https://github.com/user-attachments/assets/05312270-92b1-4ca5-b6c1-fbbd3645d62b)
 
